@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QTWdzUNHtZN4pS90M4yhFKJCkxMHqerCT/ErewQqaIz5gf0cBuM0AVkj268kXuqa3mxkDQcFsq1Uw0JPAII1gw==",
+  "dgSpecHash": "MM1P2g6EiPtkEGReFLq9vby1Y8tRvBWaijoEnQ193LRLKD7LK06mjkDCO/rDL9oYaoPciCSP+M2lda5Cn5bvkA==",
   "success": true,
-  "projectFilePath": "/Users/anand/endordev/nuget/integration-tests/dotnet-assets-style-test/import/import.csproj",
+  "projectFilePath": "/Users/anand/endordev/nuget/dotnet-assets-style-test/import/import.csproj",
   "expectedPackageFiles": [
     "/Users/anand/.nuget/packages/google.protobuf/3.0.0/google.protobuf.3.0.0.nupkg.sha512",
     "/Users/anand/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.3/microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",

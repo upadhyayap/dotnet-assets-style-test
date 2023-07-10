@@ -496,6 +496,7 @@
         "lib/portable-net45+win8+wpa81+wp8/Newtonsoft.Json.xml",
         "newtonsoft.json.10.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
+        "paket-installmodel.cache",
         "tools/install.ps1"
       ]
     },
@@ -530,11 +531,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anand/endordev/nuget/integration-tests/dotnet-assets-style-test/dotnet-assets-style-test.csproj",
+      "projectUniqueName": "/Users/anand/endordev/nuget/dotnet-assets-style-test/dotnet-assets-style-test.csproj",
       "projectName": "dotnet-assets-style-test",
-      "projectPath": "/Users/anand/endordev/nuget/integration-tests/dotnet-assets-style-test/dotnet-assets-style-test.csproj",
+      "projectPath": "/Users/anand/endordev/nuget/dotnet-assets-style-test/dotnet-assets-style-test.csproj",
       "packagesPath": "/Users/anand/.nuget/packages/",
-      "outputPath": "/Users/anand/endordev/nuget/integration-tests/dotnet-assets-style-test/obj/",
+      "outputPath": "/Users/anand/endordev/nuget/dotnet-assets-style-test/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -551,8 +552,8 @@
         "net48": {
           "targetAlias": "net48",
           "projectReferences": {
-            "/Users/anand/endordev/nuget/integration-tests/dotnet-assets-style-test/import/import.csproj": {
-              "projectPath": "/Users/anand/endordev/nuget/integration-tests/dotnet-assets-style-test/import/import.csproj"
+            "/Users/anand/endordev/nuget/dotnet-assets-style-test/import/import.csproj": {
+              "projectPath": "/Users/anand/endordev/nuget/dotnet-assets-style-test/import/import.csproj"
             }
           }
         }

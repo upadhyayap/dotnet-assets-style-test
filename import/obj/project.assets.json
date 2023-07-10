@@ -471,11 +471,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anand/endordev/nuget/integration-tests/dotnet-assets-style-test/import/import.csproj",
+      "projectUniqueName": "/Users/anand/endordev/nuget/dotnet-assets-style-test/import/import.csproj",
       "projectName": "import",
-      "projectPath": "/Users/anand/endordev/nuget/integration-tests/dotnet-assets-style-test/import/import.csproj",
+      "projectPath": "/Users/anand/endordev/nuget/dotnet-assets-style-test/import/import.csproj",
       "packagesPath": "/Users/anand/.nuget/packages/",
-      "outputPath": "/Users/anand/endordev/nuget/integration-tests/dotnet-assets-style-test/import/obj/",
+      "outputPath": "/Users/anand/endordev/nuget/dotnet-assets-style-test/import/obj/",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
