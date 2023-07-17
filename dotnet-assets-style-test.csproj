@@ -1,13 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
-    <TargetFrameworks>net48</TargetFrameworks>
+    <TargetFrameworks>.net5.0</TargetFrameworks>
+    <!-- <RestorePackagesWithLockFile>true</RestorePackagesWithLockFile> -->
   </PropertyGroup>
-
-  <ItemGroup Condition=" '$(TargetFramework)' == 'net48' ">
-    <PackageReference Include="Newtonsoft.Json" Version="10.0.1" />
-    <ProjectReference Include="import/import.csproj" />
+  <ItemGroup>
+    <PackageReference Include="Avalonia.Skia" Version="0.10.18"></PackageReference>
   </ItemGroup>
-
 </Project>
